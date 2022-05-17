@@ -13,6 +13,7 @@
     "bootstrap": "^4.6.1",
     "jquery": "^3.6.0",
     "meteor-node-stubs": "^1.2.1",
+    "npm-collect": "^1.0.5",
     "popper.js": "^1.16.1",
     "vue": "^2.6.14",
     "vue-meteor-tracker": "^2.0.0-beta.5",
